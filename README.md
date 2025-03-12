@@ -9,7 +9,7 @@ This project leverages machine learning techniques to predict the likelihood of 
   
 **Model Selection:** Implemented multiple classification algorithms, including Logistic Regression, Random Forest, and Support Vector Machines (SVM). After evaluating model performance, **SVM proved to be the most effective**, delivering the best results in terms of accuracy and predictive power.
   
-**Model Evaluation:** Tuned hyperparameters using GridSearchCV and evaluated the model using metrics like accuracy, AUC, and confusion matrix.
+**Model Evaluation:** Evaluated the model using metrics like accuracy, AUC, and confusion matrix.
   
 **Final Model:** Achieved an accuracy score of **78%**, demonstrating a reliable model for diabetes prediction.
 
