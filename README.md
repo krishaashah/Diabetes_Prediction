@@ -7,7 +7,7 @@ This project leverages machine learning techniques to predict the likelihood of 
 
 **Data Preprocessing:** Cleaned the dataset by handling missing values, correcting inconsistencies, encoding categorical variables, and scaling numerical features.
   
-**Model Selection:** Implemented multiple classification algorithms, including Logistic Regression, Random Forest, and Support Vector Machines (SVM). After evaluating model performance, **SVM proved to be the most effective**, delivering the best results in terms of accuracy and predictive power.
+**Model Selection:** Implemented multiple classification algorithms, including Logistic Regression, Random Forest, and Support Vector Machines (SVM).
   
 **Model Evaluation:** Evaluated the model using metrics like accuracy, AUC, and confusion matrix.
   
