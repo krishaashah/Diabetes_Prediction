@@ -1,7 +1,7 @@
 # Diabetes Prediction
 
-**Project Overview:**
-## This project leverages machine learning techniques to predict the likelihood of diabetes in individuals based on their health metrics and medical history. Using a dataset that includes features like age, BMI, blood sugar levels, physical activity, and more, the goal is to classify individuals as either diabetic or non-diabetic.
+## Project Overview:##
+This project leverages machine learning techniques to predict the likelihood of diabetes in individuals based on their health metrics and medical history. Using a dataset that includes features like age, BMI, blood sugar levels, physical activity, and more, the goal is to classify individuals as either diabetic or non-diabetic.
 **Key Features:**
 
   Data Preprocessing: Cleaned the dataset by handling missing values, correcting inconsistencies, encoding categorical variables, and scaling numerical features..
