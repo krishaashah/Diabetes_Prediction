@@ -7,11 +7,10 @@ This project leverages machine learning techniques to predict the likelihood of 
 
 **Data Preprocessing:** Cleaned the dataset by handling missing values, correcting inconsistencies, encoding categorical variables, and scaling numerical features.
   
-**Model Selection:** Implemented multiple classification algorithms, including Logistic Regression, Random Forest, and Support Vector Machines (SVM).
+**Model Selection:** Implemented multiple classification algorithms, including Logistic Regression, Decision Tree Classifier and Random Forest.
+**Model Evaluation:** Evaluated the model using performance metrics F1 score.
   
-**Model Evaluation:** Evaluated the model using metrics like accuracy, AUC, and confusion matrix.
-  
-**Final Model:** Achieved an accuracy score of **78%**, demonstrating a reliable model for diabetes prediction.
+**Final Model:** Achieved an accuracy score of **81%**, demonstrating a reliable model for diabetes prediction.
 
 **Technologies Used:** Python, Pandas, NumPy, Scikit-learn
                        Jupyter Notebook
