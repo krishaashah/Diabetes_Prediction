@@ -1,7 +1,7 @@
 # Diabetes Prediction
 
 ## Project Overview: ##
-This project leverages machine learning techniques to predict the likelihood of diabetes in individuals based on their health metrics and medical history. Using a dataset that includes features like age, BMI, blood sugar levels, heart rate, and more, the goal is to classify individuals as either diabetic or non-diabetic.
+In this project I implemented python and machine learning algorithms to predict the likelihood of diabetes in individuals based on their health metrics and medical history. Using a dataset that includes features like age, BMI, blood sugar levels, heart rate, and more, the goal was to classify individuals as either diabetic or non-diabetic.
 
 ## Key Features: ##
 
